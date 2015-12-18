@@ -1,0 +1,7 @@
+name: GravatarServerIcon
+main: com.Nateb1121.gravatar.Gravatar
+version: 1
+
+commands:
+   updateImage:
+      description: Updates your server image. 
